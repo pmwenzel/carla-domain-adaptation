@@ -11,11 +11,14 @@ The dataset contains generated weathers for 10 different weather conditions usin
 If you use the dataset, please cite our paper "Modular Vehicle Control for Transferring Semantic Information Between Weather Conditions Using GANs":
 
 ```
-@article{wenzel-corl-18,
-  author = {Patrick Wenzel and Qadeer Khan and Daniel Cremers and Laura Leal-Taixé},
-  journal = {arXiv preprint arXiv:1807.01001},
-  title = {Modular Vehicle Control for Transferring Semantic Information Between Weather Conditions Using GANs},
-  year = {2018}
+@inproceedings{wenzelCoRL18carla,
+    author = {Wenzel, Patrick and
+    Khan, Qadeer and Cremers, Daniel and
+    Leal-Taixé, Laura},
+    title = {Modular Vehicle Control for Transferring 
+    Semantic Information Between Weather Conditions Using GANs},
+    booktitle = {Conference on Robot Learning (CoRL)},
+    year = {2018}
 }
 ```
 
