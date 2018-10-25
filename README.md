@@ -1,6 +1,6 @@
 # Modular Vehicle Control for Transferring Semantic Information Between Weather Conditions Using GANs
 
-This repository contains the dataset for the paper [Modular Vehicle Control for Transferring Semantic Information Between Weather Conditions Using GANs (CoRL 2018)](https://arxiv.org/abs/1807.01001).
+This repository contains the dataset for the paper <a href="https://arxiv.org/abs/1807.01001" target="_blank">Modular Vehicle Control for Transferring Semantic Information Between Weather Conditions Using GANs (CoRL 2018)</a>.
 
 ## Generated Weathers Dataset
 
